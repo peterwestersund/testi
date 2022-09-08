@@ -1,0 +1,32 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red;
+}
+
+body {
+    background-color: pink;
+}
+
+#otsikko1 {
+    text-align: center;
+}
+
+#otsikko2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    padding-left: 10px;
+    border-top: solid 2px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border: solid 2px;
+}
